@@ -1,0 +1,84 @@
+#main {
+    text-align: center;
+}
+
+.class1 {
+    width: 9%;
+    float: left;
+    margin-left: 0%;
+    margin-top: 0%;
+
+}
+
+.class1 img {
+    width: 100%;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+.div1 {
+    border: 1px solid beige;
+}
+
+.class2 {
+    width: 18%;
+    float: right;
+    margin-right: 1%;
+    margin-top: -3%;
+}
+
+.class2 img {
+    width: 100%;
+}
+
+.class2 figcaption {
+    text-align: center;
+}
+
+.div2 {
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.class3 {
+    justify-content: center;
+    align-items: center;
+
+}
+
+.class3 img {
+    width: 70%;
+    border: 1px solid black;
+}
+
+.div3 {
+    text-align: center;
+}
+
+.class4 {
+    width: 19%;
+    margin-top: -126px;
+    float: right;
+    margin-right: 7px;
+}
+
+.class4 img {
+    width: 100%;
+}
+
+.class4 figcaption {
+    text-align: center;
+}
+
+.class5 {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.class5 h3 {
+    text-align: center;
+}
+
+.class5 p {
+    text-align: left;
+}
