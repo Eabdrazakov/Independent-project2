@@ -18,9 +18,10 @@ body {
 }
 
 .class1 img {
-    width: 100%;
+    width: 80%;
     border-radius: 100%;
     border: 1px solid black;
+    margin-top: -5%;
 }
 
 .div1 {
@@ -30,16 +31,17 @@ body {
 .class2 {
     width: 18%;
     float: right;
-    margin-right: 1%;
+    margin-right: -5%;
     margin-top: -3%;
 }
 
 .class2 img {
-    width: 100%;
+    width: 70%;
+    margin-top: 0%;
 }
 
 .class2 figcaption {
-    text-align: center;
+    text-align: left;
 }
 
 .div2 {
@@ -74,7 +76,7 @@ body {
 
 .class4 {
     width: 19%;
-    margin-top: -126px;
+    margin-top: -160px;
     float: right;
     margin-right: 7px;
 }
