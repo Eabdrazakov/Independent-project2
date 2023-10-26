@@ -3,7 +3,7 @@
 <h4>By Ermek Abdrazakov</h4>
 
 
-_[gh-page site](https://eabdrazakov.github.io/Independent-project2/)_
+*_Open [gh-page site](https://eabdrazakov.github.io/Independent-project2/)._
 
 ## Technologies Used
 
