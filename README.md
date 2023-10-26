@@ -2,6 +2,9 @@
 
 <h4>By Ermek Abdrazakov</h4>
 
+
+_[gh-page site](https://eabdrazakov.github.io/Independent-project2/)_
+
 ## Technologies Used
 
 * _HTML_
@@ -16,7 +19,7 @@ _This portfolio wedpage allow to users to create a simple wedpage with HTML and 
 
 * _Clone this repository to your desktop._
 * _Navigate to the top level of the directory._
-* _Open [GidHub](https://github.com/Eabdrazakov?tab=repositories) in your browser._
+* _Open [GidHub](https://github.com/Eabdrazakov/Independent-project2) in your browser._
 
 ## Known Bugs
 
